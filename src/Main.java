@@ -17,7 +17,7 @@ public class Main
 
 		 screen.startScreen();
 
-		 textGraphics.putString(0,0, "Greetings.");
+		 textGraphics.putString(0,0, "Greetings. This a test.");
 		 screen.refresh();
 		 screen.readInput();
 	}
