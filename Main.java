@@ -17,7 +17,7 @@ public class Main
 
 		 screen.startScreen();
 
-		 textGraphics.putString(0,0, "Greetings from Melesio.");
+		 textGraphics.putString(0,0, "Greetings.");
 		 screen.refresh();
 		 screen.readInput();
 	}
