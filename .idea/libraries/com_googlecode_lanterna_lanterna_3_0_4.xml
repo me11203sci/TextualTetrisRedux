@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.googlecode.lanterna:lanterna:3.0.4" type="repository">
+    <properties maven-id="com.googlecode.lanterna:lanterna:3.0.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/lanterna/lanterna/3.0.4/lanterna-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
