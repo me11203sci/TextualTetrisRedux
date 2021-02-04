@@ -3,3 +3,4 @@
 - View Upcoming Piece.
 - Hold Piece.
 - SPACE Key To Drop.
+- X and Z To Rotate.
