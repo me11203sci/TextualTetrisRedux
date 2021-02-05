@@ -1,5 +1,6 @@
 # TODO
-- Cosmetic Changes (Use Block Characters.)
+- Cosmetic Changes (Use Block Characters?)
+- Reduce file size.
 - On Screen Control Scheme.
 - View Upcoming Piece.
 - Hold Piece.
